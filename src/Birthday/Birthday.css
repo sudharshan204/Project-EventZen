@@ -1,0 +1,51 @@
+/* * {
+    background-color:mintcream;
+  } */
+  
+  .image-container {
+    width: 100%;
+    
+    overflow: hidden;
+  }
+  
+  .image-container img {
+    
+    
+    border-radius: 20px;
+  }
+  
+  .content-container {
+    background-color:transparent;
+    margin: 0 6cm;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    color: #4A4A4A;
+    opacity: 0.9;
+  }
+  
+  .event-info {
+    margin-bottom: 20px;
+    font-size: 1.1em;
+  }
+  
+  h3 {
+    font-size: 1.2em;
+    line-height: 1.5;
+  }
+  
+  button.book-now-btn {
+    background-color: #2E3B4E;
+    color: white;
+    padding: 10px 20px;
+    font-size: 1em;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button.book-now-btn:hover {
+    background-color: #384653;
+  }
+  
