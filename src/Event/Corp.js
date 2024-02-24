@@ -33,7 +33,7 @@ const Corp = () => {
           <br></br>
           <br></br>
           <br></br>
-          <button className="book-now-btn" onClick={Click}>BOOK NOW</button>
+          <button className="book" onClick={Click}>BOOK NOW</button>
         </div>
       </center>
     </>

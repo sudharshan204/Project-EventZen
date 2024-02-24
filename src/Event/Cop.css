@@ -8,7 +8,7 @@
   }
   
   .image-container img {
-    width: 100%;
+    width: 80%;
     
   }
   
@@ -35,8 +35,8 @@
     color: aliceblue;
   }
   
-  button.book-now-btn {
-    background-color: #657ea483;
+  .book{
+    background-color: #c4bc1ad3;
     color: rgb(30, 26, 26);
     padding: 10px 20px;
     font-size: 1em;
@@ -45,8 +45,8 @@
     cursor: pointer;
   }
   
-  button.book-now-btn:hover {
-    background-color: #8ed5fe;
+  .book:hover {
+    background-color: #0ecdebdf;
   }
   .ima:hover{
     transform:scale(1.06);
