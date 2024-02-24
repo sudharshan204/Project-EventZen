@@ -11,7 +11,7 @@ const AboutUs = () => {
         <h2>About Us</h2>
         <div className="about-content">
             <h3>
-          <p>Welcome to EventZen, where we specialize in transforming ordinary moments into extraordinary memories. As a dynamic and fast-growing event management company, we pride ourselves on curating unforgettable experiences tailored to birthdays, weddings, corporate celebrations, and private parties.</p>
+          <p>Welcome to EventZen where we specialize in transforming ordinary moments into extraordinary memories. As a dynamic and fast-growing event management company, we pride ourselves on curating unforgettable experiences tailored to birthdays, weddings, corporate celebrations, and private parties.</p>
           
           <p>Our commitment to excellence is the driving force behind every event we undertake. Picture countless birthday bashes infused with laughter and joy, and dream weddings where your vision becomes a breathtaking reality with meticulous attention to detail.</p>
           
